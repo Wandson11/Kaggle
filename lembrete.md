@@ -1,0 +1,2 @@
+- Não tratar missing antes do split en teste de treino.
+- Não preencher campos missing antes da análise exploratória.
